@@ -1,7 +1,7 @@
-### Hola 👋
-# 19 años
-# Estudiante de ingenieria en sistemas de tercer año en Universidad ORT.
-# Montevideo, Uruguay
+# Renzo Donagrandi Segredo
+### 19 años
+### Estudiante de ingenieria en sistemas de tercer año en Universidad ORT.
+### Montevideo, Uruguay
 <!--
 **renzodonagrandi/renzodonagrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
